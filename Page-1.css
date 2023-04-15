@@ -225,6 +225,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 641px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
     width: auto;
@@ -240,7 +244,7 @@
   }
 
   .u-section-1 .u-countdown-1 {
-    margin-top: 43px;
+    margin-top: 74px;
     margin-left: -31px;
     margin-right: -31px;
     padding: 70px 0;
