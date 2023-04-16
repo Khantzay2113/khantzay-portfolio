@@ -226,25 +226,26 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 641px;
+    min-height: 764px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
     width: auto;
+    margin-top: 117px;
     margin-right: auto;
-    margin-left: -12px;
+    margin-left: -6px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 11px;
-    margin-right: auto;
-    margin-left: -16px;
+    margin-top: 13px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-countdown-1 {
-    margin-top: 74px;
+    margin-top: 25px;
     margin-left: -31px;
     margin-right: -31px;
     padding: 70px 0;
